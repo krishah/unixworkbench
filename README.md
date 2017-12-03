@@ -1,8 +1,8 @@
-#Unix Workbench Course 
+# Unix Workbench Course 
 
-##GIT Project 
+## GIT Project 
 
-Date and time *nie, 3 gru 2017, 22:10:48 CET*
+Date and time *nie, 3 gru 2017, 22:15:48 CET*
 
 Project has **23 ** lines
 
